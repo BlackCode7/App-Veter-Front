@@ -1,0 +1,12 @@
+
+html, body{
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.class-fundo{
+    width: 100%;
+    height: 100%;
+    background-color: linear-gradient(right, black, white,green);
+}

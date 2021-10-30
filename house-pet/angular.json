@@ -28,6 +28,9 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/primeng-lts/resources/themes/bootstrap4-dark-purple/theme.css",
+              "node_modules/primeng-lts/resources/primeng.min.css",
               "src/styles.css"
             ],
             "scripts": []
